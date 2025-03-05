@@ -70,7 +70,7 @@ article {
 
 .article-but {
     text-decoration: none;
-    background: #2fa3b4;
+    background-color: #2fa3b4;
     font-weight: 700;
     font-size: 24px;
     text-align: center;
@@ -80,7 +80,7 @@ article {
 
 
 footer {
-   background: #49637D;
+   background-color: #49637D;
     display: flex;
     align-items: center;
     padding: 45px 0px 45px 70px;
